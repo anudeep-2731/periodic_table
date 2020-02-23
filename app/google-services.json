@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239842045210",
+    "firebase_url": "https://periodictable-1c182.firebaseio.com",
+    "project_id": "periodictable-1c182",
+    "storage_bucket": "periodictable-1c182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239842045210:android:78496a7a0bdfb0cdcd10a3",
+        "android_client_info": {
+          "package_name": "com.example.periodic_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239842045210-m53gommhi8uct4d5b30aa1geqgkgkugb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.periodic_table",
+            "certificate_hash": "e790f1541d69fb5eac88d10722e109d1ff1e9557"
+          }
+        },
+        {
+          "client_id": "239842045210-ctmejf2r3b049hpuk80f859f9g4416jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9nYbd02nKKFEPNrfw2X_HPYGf5eKYP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239842045210-ctmejf2r3b049hpuk80f859f9g4416jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
