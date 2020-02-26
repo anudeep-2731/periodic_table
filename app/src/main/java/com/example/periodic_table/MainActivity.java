@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    Button b1,b12,b11,b10,b9,b8,b2,b3,b4,b5,b6,b7;
+    Button b1,b12,b11,b10,b9,b8,b2,b3,b4,b5,b6,b7,search;
 
     TextView textView;
 
@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         b5=findViewById(R.id.E_4);
         b6=findViewById(R.id.E_5);
         b7=findViewById(R.id.E_6);
+        search=findViewById(R.id.search);
 
 
     }
@@ -795,4 +796,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void search_activity(View view) {
+        Intent intent= new  Intent(this,search_activity.class);
+
+        startActivity(intent);
+
+    }
 }
